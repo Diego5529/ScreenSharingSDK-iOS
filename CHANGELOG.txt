@@ -1,0 +1,9 @@
+VERSION 10.0.56017
+•	Fixed framework executable type
+
+
+VERSION 10.0.48778
+•	Adaption for iOS9
+•	No more colissions when the app uses the same libraries than our SDK
+•	No new session code after loosing connection
+•	Xcode7
