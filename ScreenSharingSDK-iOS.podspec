@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/Diego5529/ScreenSharingSDK-iOS.git", :branch => 'master' }
+  s.source       = { :git => "https://github.com/Diego5529/ScreenSharingSDK-iOS.git", :commit => "8fdab1007ad8bf6d1c231e854bb16aee829616a8" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
